@@ -1,2 +1,3 @@
-# pong-refactor
+# pong-refactor: Documentation
+
 Created with CodeSandbox
